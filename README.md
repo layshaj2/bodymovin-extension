@@ -12,3 +12,4 @@ Bodymovin UI extension panel
 6. Open the CEF client and navigate to `http://localhost:8092`
 
 The extension window will now hot-reload and you can use the devtools in the CEF client.
+![image](https://github.com/bodymovin/bodymovin-extension/assets/171671545/deb191ef-a5f7-4073-a64b-edea62bb5a37)
